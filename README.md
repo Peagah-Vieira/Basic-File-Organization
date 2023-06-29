@@ -1,7 +1,7 @@
 # Basic File Organization
 
-Organização básica para arquivos HTML | CSS | JS | IMAGENS.
-## Estrutura
+Basic organization for HTML files | css | JS | IMAGES.
+## Structure
 ```bash
     index.html
     |_assets
@@ -12,9 +12,9 @@ Organização básica para arquivos HTML | CSS | JS | IMAGENS.
     |  	|js/
         |   |main.js
 ```
-## Rodando localmente
+## Running Locally
 
-Clone o projeto ou Baixe o ZIP
+Clone the project or Download the ZIP
 
 ```bash
   git clone https://github.com/Peagah-Vieira/Basic-File-Organization.git
